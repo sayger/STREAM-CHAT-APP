@@ -1,5 +1,5 @@
 # STREAM-CHAT-APP
- STREAM-CHAT-APP
+ Stream-Chat-App And Authorization
 <p align="center">
   <img src="ReadmeAssets/256px.png"/>
 </p>
